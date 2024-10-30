@@ -4,10 +4,10 @@ import (
 	"strings"
 	"time"
 
-	cconst "cherry/const"
-	cerr "cherry/error"
-	cstring "cherry/extend/string"
-	cproto "cherry/net/proto"
+	cconst "byonegames/cherry/const"
+	cerr "byonegames/cherry/error"
+	cstring "byonegames/cherry/extend/string"
+	cproto "byonegames/cherry/net/proto"
 )
 
 type (

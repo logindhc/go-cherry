@@ -3,11 +3,11 @@ package cherryProfile
 import (
 	"path/filepath"
 
-	cerror "cherry/error"
-	cfile "cherry/extend/file"
-	cjson "cherry/extend/json"
-	cstring "cherry/extend/string"
-	cfacade "cherry/facade"
+	cerror "byonegames/cherry/error"
+	cfile "byonegames/cherry/extend/file"
+	cjson "byonegames/cherry/extend/json"
+	cstring "byonegames/cherry/extend/string"
+	cfacade "byonegames/cherry/facade"
 )
 
 var (

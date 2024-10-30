@@ -1,8 +1,8 @@
 package cherryGops
 
 import (
-	cherryFacade "cherry/facade"
-	cherryLogger "cherry/logger"
+	cherryFacade "byonegames/cherry/facade"
+	cherryLogger "byonegames/cherry/logger"
 	"github.com/google/gops/agent"
 )
 

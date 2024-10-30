@@ -3,10 +3,10 @@ package cherryDataConfig
 import (
 	"sync"
 
-	cutils "cherry/extend/utils"
-	cfacade "cherry/facade"
-	clog "cherry/logger"
-	cprofile "cherry/profile"
+	cutils "byonegames/cherry/extend/utils"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
+	cprofile "byonegames/cherry/profile"
 )
 
 const (

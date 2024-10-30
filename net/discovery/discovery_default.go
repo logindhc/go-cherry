@@ -4,12 +4,12 @@ import (
 	"math/rand"
 	"sync"
 
-	cerr "cherry/error"
-	cslice "cherry/extend/slice"
-	cfacade "cherry/facade"
-	clog "cherry/logger"
-	cproto "cherry/net/proto"
-	cprofile "cherry/profile"
+	cerr "byonegames/cherry/error"
+	cslice "byonegames/cherry/extend/slice"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
+	cproto "byonegames/cherry/net/proto"
+	cprofile "byonegames/cherry/profile"
 )
 
 // DiscoveryDefault 默认方式，通过读取profile文件的节点信息

@@ -1,6 +1,6 @@
 package cherryActor
 
-import cfacade "cherry/facade"
+import cfacade "byonegames/cherry/facade"
 
 var (
 	Name = "actor_component"

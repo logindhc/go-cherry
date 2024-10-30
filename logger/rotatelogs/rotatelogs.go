@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	cerror "cherry/error"
+	cerror "byonegames/cherry/error"
 	"github.com/lestrrat-go/strftime"
 )
 

@@ -1,7 +1,7 @@
 package cherryGin
 
 import (
-	cfacade "cherry/facade"
+	cfacade "byonegames/cherry/facade"
 	"github.com/gin-gonic/gin"
 )
 

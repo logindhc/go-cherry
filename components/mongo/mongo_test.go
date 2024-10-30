@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	clog "cherry/logger"
+	clog "byonegames/cherry/logger"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )

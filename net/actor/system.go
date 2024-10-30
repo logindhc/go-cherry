@@ -5,11 +5,11 @@ import (
 	"sync"
 	"time"
 
-	ccode "cherry/code"
-	cutils "cherry/extend/utils"
-	cfacade "cherry/facade"
-	clog "cherry/logger"
-	cproto "cherry/net/proto"
+	ccode "byonegames/cherry/code"
+	cutils "byonegames/cherry/extend/utils"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
+	cproto "byonegames/cherry/net/proto"
 )
 
 type (

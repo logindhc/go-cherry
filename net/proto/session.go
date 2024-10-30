@@ -1,8 +1,8 @@
 package cherryProto
 
 import (
-	cconst "cherry/const"
-	cstring "cherry/extend/string"
+	cconst "byonegames/cherry/const"
+	cstring "byonegames/cherry/extend/string"
 )
 
 func (x *Session) IsBind() bool {

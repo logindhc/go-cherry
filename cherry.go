@@ -1,9 +1,9 @@
 package cherry
 
 import (
-	cfacade "cherry/facade"
-	ccluster "cherry/net/cluster"
-	cdiscovery "cherry/net/discovery"
+	cfacade "byonegames/cherry/facade"
+	ccluster "byonegames/cherry/net/cluster"
+	cdiscovery "byonegames/cherry/net/discovery"
 )
 
 type (

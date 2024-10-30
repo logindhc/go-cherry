@@ -3,7 +3,7 @@ package cherryLogger
 import (
 	"testing"
 
-	ctime "cherry/extend/time"
+	ctime "byonegames/cherry/extend/time"
 )
 
 func BenchmarkWrite(b *testing.B) {

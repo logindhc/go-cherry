@@ -1,7 +1,7 @@
 package cherryNatsCluster
 
 import (
-	clog "cherry/logger"
+	clog "byonegames/cherry/logger"
 	"github.com/nats-io/nats.go"
 )
 

@@ -3,9 +3,9 @@ package pomelo
 import (
 	"sync"
 
-	cerr "cherry/error"
-	cfacade "cherry/facade"
-	clog "cherry/logger"
+	cerr "byonegames/cherry/error"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
 )
 
 var (

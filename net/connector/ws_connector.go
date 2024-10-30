@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	cfacade "cherry/facade"
-	clog "cherry/logger"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
 	"github.com/gorilla/websocket"
 )
 

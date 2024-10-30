@@ -1,4 +1,4 @@
-module cherry
+module byonegames/cherry
 
 go 1.22.8
 

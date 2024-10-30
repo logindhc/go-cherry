@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	cerr "cherry/error"
+	cerr "byonegames/cherry/error"
 )
 
 const (

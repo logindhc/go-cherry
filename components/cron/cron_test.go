@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	ctime "cherry/extend/time"
-	clog "cherry/logger"
+	ctime "byonegames/cherry/extend/time"
+	clog "byonegames/cherry/logger"
 )
 
 func TestAddEveryDayFunc(t *testing.T) {

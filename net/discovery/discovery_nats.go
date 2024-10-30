@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"time"
 
-	cfacade "cherry/facade"
-	clog "cherry/logger"
-	cnats "cherry/net/nats"
-	cproto "cherry/net/proto"
-	cprofile "cherry/profile"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
+	cnats "byonegames/cherry/net/nats"
+	cproto "byonegames/cherry/net/proto"
+	cprofile "byonegames/cherry/profile"
 	"github.com/nats-io/nats.go"
 )
 

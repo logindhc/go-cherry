@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	cerr "cherry/error"
-	ccompress "cherry/extend/compress"
+	cerr "byonegames/cherry/error"
+	ccompress "byonegames/cherry/extend/compress"
 )
 
 var (

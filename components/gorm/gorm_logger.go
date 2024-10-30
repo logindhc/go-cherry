@@ -3,7 +3,7 @@ package cherryGORM
 import (
 	"strings"
 
-	clog "cherry/logger"
+	clog "byonegames/cherry/logger"
 )
 
 type gormLogger struct {

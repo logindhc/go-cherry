@@ -5,7 +5,7 @@ import (
 	"github.com/robfig/cron/v3"
 	"time"
 
-	clog "cherry/logger"
+	clog "byonegames/cherry/logger"
 )
 
 var _cron = cron.New(

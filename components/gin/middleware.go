@@ -2,8 +2,8 @@
 package cherryGin
 
 import (
-	csync "cherry/extend/sync"
-	clog "cherry/logger"
+	csync "byonegames/cherry/extend/sync"
+	clog "byonegames/cherry/logger"
 	"net"
 	"net/http"
 	"net/http/httputil"

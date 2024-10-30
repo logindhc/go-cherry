@@ -3,8 +3,8 @@ package cherryProfile
 import (
 	"fmt"
 
-	cerr "cherry/error"
-	cfacade "cherry/facade"
+	cerr "byonegames/cherry/error"
+	cfacade "byonegames/cherry/facade"
 )
 
 // Node node info

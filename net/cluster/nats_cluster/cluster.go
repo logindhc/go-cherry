@@ -5,13 +5,13 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	ccode "cherry/code"
-	cerr "cherry/error"
-	cfacade "cherry/facade"
-	clog "cherry/logger"
-	cnats "cherry/net/nats"
-	cproto "cherry/net/proto"
-	cprofile "cherry/profile"
+	ccode "byonegames/cherry/code"
+	cerr "byonegames/cherry/error"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
+	cnats "byonegames/cherry/net/nats"
+	cproto "byonegames/cherry/net/proto"
+	cprofile "byonegames/cherry/profile"
 	"github.com/nats-io/nats.go"
 	"go.uber.org/zap/zapcore"
 )

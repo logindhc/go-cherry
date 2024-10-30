@@ -3,9 +3,9 @@ package cherryActor
 import (
 	"time"
 
-	cherryTimeWheel "cherry/extend/time_wheel"
-	cutils "cherry/extend/utils"
-	clog "cherry/logger"
+	cherryTimeWheel "byonegames/cherry/extend/time_wheel"
+	cutils "byonegames/cherry/extend/utils"
+	clog "byonegames/cherry/logger"
 )
 
 const (

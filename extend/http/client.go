@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	clog "cherry/logger"
+	clog "byonegames/cherry/logger"
 )
 
 var (

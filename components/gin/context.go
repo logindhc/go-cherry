@@ -4,8 +4,8 @@ import (
 	"io"
 	"net/http"
 
-	cslice "cherry/extend/slice"
-	cstring "cherry/extend/string"
+	cslice "byonegames/cherry/extend/slice"
+	cstring "byonegames/cherry/extend/string"
 	"github.com/gin-gonic/gin"
 )
 

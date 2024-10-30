@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	cfile "cherry/extend/file"
-	cfacade "cherry/facade"
-	clog "cherry/logger"
+	cfile "byonegames/cherry/extend/file"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
 	"github.com/gin-gonic/gin"
 )
 

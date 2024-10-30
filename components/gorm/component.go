@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	cfacade "cherry/facade"
-	clog "cherry/logger"
-	cprofile "cherry/profile"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
+	cprofile "byonegames/cherry/profile"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

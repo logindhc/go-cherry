@@ -6,8 +6,8 @@ import (
 	"time"
 	"unsafe"
 
-	cutils "cherry/extend/utils"
-	clog "cherry/logger"
+	cutils "byonegames/cherry/extend/utils"
+	clog "byonegames/cherry/logger"
 )
 
 // TimeWheel is an implementation of Hierarchical Timing Wheels.

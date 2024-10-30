@@ -3,8 +3,8 @@ package cherryActor
 import (
 	"time"
 
-	creflect "cherry/extend/reflect"
-	cfacade "cherry/facade"
+	creflect "byonegames/cherry/extend/reflect"
+	cfacade "byonegames/cherry/facade"
 )
 
 type (

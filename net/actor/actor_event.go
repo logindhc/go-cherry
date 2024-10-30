@@ -1,8 +1,8 @@
 package cherryActor
 
 import (
-	cfacade "cherry/facade"
-	clog "cherry/logger"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
 )
 
 type actorEvent struct {

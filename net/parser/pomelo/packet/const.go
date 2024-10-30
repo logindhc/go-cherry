@@ -3,7 +3,7 @@ package pomeloPacket
 import (
 	"bytes"
 
-	cerr "cherry/error"
+	cerr "byonegames/cherry/error"
 )
 
 type (

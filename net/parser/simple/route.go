@@ -1,9 +1,9 @@
 package simple
 
 import (
-	cfacade "cherry/facade"
-	clog "cherry/logger"
-	cproto "cherry/net/proto"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
+	cproto "byonegames/cherry/net/proto"
 )
 
 var (

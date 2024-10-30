@@ -1,7 +1,7 @@
 package cherryActor
 
 import (
-	cfacade "cherry/facade"
+	cfacade "byonegames/cherry/facade"
 )
 
 type Base struct {

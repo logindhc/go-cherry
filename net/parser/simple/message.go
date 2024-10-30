@@ -6,7 +6,7 @@ import (
 	"io"
 	"net"
 
-	cerr "cherry/error"
+	cerr "byonegames/cherry/error"
 )
 
 var (

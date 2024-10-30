@@ -1,8 +1,8 @@
 package cherrySnowflake
 
 import (
-	ccrypto "cherry/extend/crypto"
-	clog "cherry/logger"
+	ccrypto "byonegames/cherry/extend/crypto"
+	clog "byonegames/cherry/logger"
 )
 
 var (

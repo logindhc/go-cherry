@@ -1,7 +1,7 @@
 package cherryActor
 
 import (
-	cerror "cherry/error"
+	cerror "byonegames/cherry/error"
 )
 
 var (

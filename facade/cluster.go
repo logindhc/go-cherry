@@ -3,7 +3,7 @@ package cherryFacade
 import (
 	"time"
 
-	cproto "cherry/net/proto"
+	cproto "byonegames/cherry/net/proto"
 )
 
 type (

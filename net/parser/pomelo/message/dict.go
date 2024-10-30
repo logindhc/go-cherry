@@ -3,7 +3,7 @@ package pomeloMessage
 import (
 	"strings"
 
-	clog "cherry/logger"
+	clog "byonegames/cherry/logger"
 )
 
 var (

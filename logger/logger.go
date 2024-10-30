@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	cfacade "cherry/facade"
-	"cherry/logger/rotatelogs"
-	cprofile "cherry/profile"
+	cfacade "byonegames/cherry/facade"
+	"byonegames/cherry/logger/rotatelogs"
+	cprofile "byonegames/cherry/profile"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

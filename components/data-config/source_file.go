@@ -5,10 +5,10 @@ import (
 	"regexp"
 	"time"
 
-	cerr "cherry/error"
-	cfile "cherry/extend/file"
-	clog "cherry/logger"
-	cprofile "cherry/profile"
+	cerr "byonegames/cherry/error"
+	cfile "byonegames/cherry/extend/file"
+	clog "byonegames/cherry/logger"
+	cprofile "byonegames/cherry/profile"
 	"github.com/radovskyb/watcher"
 )
 

@@ -3,7 +3,7 @@ package rotatelogs
 import (
 	"time"
 
-	"cherry/logger/rotatelogs/internal/option"
+	"byonegames/cherry/logger/rotatelogs/internal/option"
 )
 
 const (

@@ -1,11 +1,11 @@
 package cherryLogger
 
 import (
-	cprofile "cherry/profile"
+	cprofile "byonegames/cherry/profile"
 	"fmt"
 	"time"
 
-	cfacade "cherry/facade"
+	cfacade "byonegames/cherry/facade"
 	"go.uber.org/zap/zapcore"
 )
 

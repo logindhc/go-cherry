@@ -3,7 +3,7 @@ package cherryNats
 import (
 	"time"
 
-	cfacade "cherry/facade"
+	cfacade "byonegames/cherry/facade"
 )
 
 var (

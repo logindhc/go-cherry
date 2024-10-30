@@ -1,7 +1,7 @@
 package cherryConnector
 
 import (
-	clog "cherry/logger"
+	clog "byonegames/cherry/logger"
 )
 
 type (

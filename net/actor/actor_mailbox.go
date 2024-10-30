@@ -3,9 +3,9 @@ package cherryActor
 import (
 	"time"
 
-	creflect "cherry/extend/reflect"
-	cfacade "cherry/facade"
-	clog "cherry/logger"
+	creflect "byonegames/cherry/extend/reflect"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
 )
 
 type mailbox struct {

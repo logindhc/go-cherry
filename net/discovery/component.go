@@ -1,9 +1,9 @@
 package cherryDiscovery
 
 import (
-	cfacade "cherry/facade"
-	clog "cherry/logger"
-	cprofile "cherry/profile"
+	cfacade "byonegames/cherry/facade"
+	clog "byonegames/cherry/logger"
+	cprofile "byonegames/cherry/profile"
 )
 
 const (

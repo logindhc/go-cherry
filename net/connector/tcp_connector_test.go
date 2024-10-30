@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	clog "cherry/logger"
+	clog "byonegames/cherry/logger"
 )
 
 func TestNewTCPConnector(t *testing.T) {

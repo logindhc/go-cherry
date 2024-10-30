@@ -1,7 +1,7 @@
 package cherrySerializer
 
 import (
-	cerr "cherry/error"
+	cerr "byonegames/cherry/error"
 	"google.golang.org/protobuf/proto"
 )
 

@@ -1,8 +1,8 @@
 package cherryCluster
 
 import (
-	cfacade "cherry/facade"
-	cherryNatsCluster "cherry/net/cluster/nats_cluster"
+	cfacade "byonegames/cherry/facade"
+	cherryNatsCluster "byonegames/cherry/net/cluster/nats_cluster"
 )
 
 const (

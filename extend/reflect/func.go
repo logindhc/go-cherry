@@ -3,7 +3,7 @@ package cherryReflect
 import (
 	"reflect"
 
-	cerr "cherry/error"
+	cerr "byonegames/cherry/error"
 )
 
 var (

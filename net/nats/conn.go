@@ -4,7 +4,7 @@ import (
 	"github.com/nats-io/nats.go"
 	"time"
 
-	clog "cherry/logger"
+	clog "byonegames/cherry/logger"
 )
 
 type (

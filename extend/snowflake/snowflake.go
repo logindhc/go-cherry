@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	cerr "cherry/error"
+	cerr "byonegames/cherry/error"
 )
 
 var (

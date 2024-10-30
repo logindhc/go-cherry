@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"github.com/go-redis/redis/v8"
 
-	cerr "cherry/error"
-	clog "cherry/logger"
-	cprofile "cherry/profile"
+	cerr "byonegames/cherry/error"
+	clog "byonegames/cherry/logger"
+	cprofile "byonegames/cherry/profile"
 )
 
 type (

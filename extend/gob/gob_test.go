@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	cproto "cherry/net/proto"
+	cproto "byonegames/cherry/net/proto"
 )
 
 func TestPB(t *testing.T) {
